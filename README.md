@@ -4,4 +4,4 @@ Un simulatore epidemiologico realizzato nel 2020 per il corso "Metodologie di Pr
 Lavoro realizzato da:
 - Damiano "dag7" Gualandri (aka dag7dev)
 - Nunzia "sorcyn" D'Ambrosio
-- Hazem "TheShadow"
+- Hazem "THESHADOW2030" Dewidar
